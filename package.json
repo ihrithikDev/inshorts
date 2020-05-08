@@ -1,0 +1,16 @@
+{
+  "name": "flash-news",
+  "version": "1.0.0",
+  "description": "2 minutes news in your pockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hrithik Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "inshorts": "^1.0.5"
+  }
+}
